@@ -1,2 +1,1 @@
-"# MediaAluno" 
-"# ProjetoMediaAluno" 
+Projeto que realiza o cálculo da média final de um aluno.
